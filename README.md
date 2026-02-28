@@ -1,6 +1,6 @@
 ## Hi, I'm Brendan 👋
 
-- 🔭 I’m currently working on a chess engine
+- 🔭 I’m currently working on building my own LLM
 - 👯 I’m open to collaborating on cool projects
 - 💬 Ask me about why I like Rust so much
 - 🤔 I’m still looking for help with exiting Vim
